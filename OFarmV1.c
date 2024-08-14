@@ -4,6 +4,7 @@
 #include <curl/curl.h>
 #include <regex.h>
 #include <pthread.h>
+#include <unistd.h>  // For sleep()
 
 #define TOR_PROXY "socks5h://127.0.0.1:9050"
 #define MAX_THREADS 10
