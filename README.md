@@ -2,6 +2,8 @@
 A .onion website finder and verifier.
 You must have tor configured correctly you can use the command below and you should get the same output.
 
+![Tor confirmed Nethunter](https://raw.githubusercontent.com/DeadmanXXXII/Curriculum-Vitae/main/CISSP.png)
+
 
 
 
