@@ -43,10 +43,10 @@ A .onion website finder and verifier
 
 3. **Create the Program File**:
 
-    Create a file named `onionfinder.c` and paste the provided code:
+    Create a file named `OFarm.c` and paste the provided code:
 
     ```bash
-    nano onionfinder.c
+    nano OFarm.c
     ```
 
     - Paste the code into this file.
@@ -57,7 +57,7 @@ A .onion website finder and verifier
     Compile the program using `gcc`:
 
     ```bash
-    gcc -o onionfinder onionfinder.c -lcurl -lpthread
+    gcc -o OFarm OFarm.c -lcurl -lpthread
     ```
 
 5. **Run the Program**:
@@ -65,7 +65,7 @@ A .onion website finder and verifier
     Execute the compiled program:
 
     ```bash
-    ./onionfinder
+    ./OFarm
     ```
 
 6. **Monitor the Output**:
