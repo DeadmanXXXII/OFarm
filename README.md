@@ -1,5 +1,8 @@
 # OFarm
-A .onion website finder and verifier
+A .onion website finder and verifier.
+You must have tor configured correctly you can use the command below and you should get the same output.
+
+
 
 
 ### Full Implementation with Automatic Seed URL Discovery
